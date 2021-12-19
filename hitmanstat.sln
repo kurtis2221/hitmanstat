@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C# Express 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hitman2stat", "hitman2stat\hitman2stat.csproj", "{718F4F42-3115-4ED9-B0E0-41B05AC483AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hitman3stat", "hitman3stat\hitman3stat.csproj", "{29114EA6-A9B2-4489-A541-E6F9C409E67B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hitman4stat", "hitman4stat\hitman4stat.csproj", "{D6CB81C4-4EF1-43BA-A425-3A79FA4C9ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{718F4F42-3115-4ED9-B0E0-41B05AC483AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{718F4F42-3115-4ED9-B0E0-41B05AC483AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{718F4F42-3115-4ED9-B0E0-41B05AC483AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{718F4F42-3115-4ED9-B0E0-41B05AC483AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29114EA6-A9B2-4489-A541-E6F9C409E67B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29114EA6-A9B2-4489-A541-E6F9C409E67B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29114EA6-A9B2-4489-A541-E6F9C409E67B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29114EA6-A9B2-4489-A541-E6F9C409E67B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CB81C4-4EF1-43BA-A425-3A79FA4C9ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CB81C4-4EF1-43BA-A425-3A79FA4C9ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CB81C4-4EF1-43BA-A425-3A79FA4C9ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CB81C4-4EF1-43BA-A425-3A79FA4C9ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
